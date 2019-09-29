@@ -1,0 +1,25 @@
+
+
+index 
+
+	adm reportes  no 
+
+
+	monitorio---dashboard - estadistcas por categoria
+				estadisticas por tipo incidentes
+				estadistica por ubicacion
+				-listado incidencias--incidentes abiertos----modificar incidente
+				     --incidentes pendientes--modificar incidente
+				     --hisorico---- --ver detalle
+
+	cliente--cliente 
+					--crear-incidencia
+					--incidentes por ubicados
+					--incedentes por tipo de incidente
+					--listado incidencia propias (hisorico)
+
+	cliente-empleado dashboard 	--crear incidente.
+					--listado incidesntes asgnados
+					--incidentes por ubicados
+					--incedentes por tipo de incidente
+
